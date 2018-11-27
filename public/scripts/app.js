@@ -38,17 +38,17 @@ var templateTwo = React.createElement(
   React.createElement(
     'h1',
     null,
-    'Andrew Mead'
+    'Bogdan Klymenko'
   ),
   React.createElement(
     'p',
     null,
-    'Age: 26'
+    'Age: 22'
   ),
   React.createElement(
     'p',
     null,
-    'Location: Philadelphia'
+    'Location: Krakow'
   )
 );
 
